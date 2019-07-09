@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/longniansheng/color-pointer/static/js/main.64a3fb49.chunk.js",
+    "main.js.map": "/longniansheng/color-pointer/static/js/main.64a3fb49.chunk.js.map",
+    "runtime~main.js": "/longniansheng/color-pointer/static/js/runtime~main.43beca94.js",
+    "runtime~main.js.map": "/longniansheng/color-pointer/static/js/runtime~main.43beca94.js.map",
+    "static/js/2.60fda1a3.chunk.js": "/longniansheng/color-pointer/static/js/2.60fda1a3.chunk.js",
+    "static/js/2.60fda1a3.chunk.js.map": "/longniansheng/color-pointer/static/js/2.60fda1a3.chunk.js.map",
+    "index.html": "/longniansheng/color-pointer/index.html",
+    "precache-manifest.0b506ef1394c314eae996b90956c5edf.js": "/longniansheng/color-pointer/precache-manifest.0b506ef1394c314eae996b90956c5edf.js",
+    "service-worker.js": "/longniansheng/color-pointer/service-worker.js"
+  }
+}
