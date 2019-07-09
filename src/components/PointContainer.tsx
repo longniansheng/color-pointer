@@ -4,7 +4,8 @@ import Container from "./PointContainerLayout";
 
 interface Props {
   point: ColorPoint;
-  handleClick: () => void;
+  handleClick: (idx: number) => void;
+  idx: number;
 }
 function PointContainer(props: Props) {
   return (
@@ -13,7 +14,7 @@ function PointContainer(props: Props) {
       y={props.point.y}
       color={props.point.color}
       radius={props.point.radius}
-      onClick={props.handleClick}
+      onClick={() => props.handleClick(props.idx)}
     />
   );
 }

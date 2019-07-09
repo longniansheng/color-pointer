@@ -24,7 +24,8 @@ const App: React.FC = () => {
           <PointContainer
             key={idx}
             point={point}
-            handleClick={() => handleClick(idx)}
+            idx={idx}
+            handleClick={handleClick}
           />
         );
       })}
