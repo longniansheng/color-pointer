@@ -13,8 +13,8 @@ export default function usePointsHoooks(): [
   const handleClick = useCallback((idx: number) => {
     const color = Math.floor(randomByRange(0xffffff, 0)).toString(16);
     const radius = randomByRange(10, 2);
-    const x = randomByRange(600 - radius, 0);
-    const y = randomByRange(600 - radius, 0);
+    const x = randomByRange(600 - radius * 2, 0);
+    const y = randomByRange(600 - radius * 2, 0);
     const point = points[idx]
       .move(x, y)
       .changeColor(`#${color}`)
