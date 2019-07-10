@@ -1,4 +1,4 @@
-import ColorPoint from "../models/ColorPoint";
+import ColorPoint from '../models/ColorPoint';
 
 export function genDefaultPoints(): ColorPoint[] {
   const points = [];
@@ -7,7 +7,7 @@ export function genDefaultPoints(): ColorPoint[] {
     const x = randomByRange(590, 0);
     const y = randomByRange(590, 0);
     const color = Math.floor(randomByRange(0xffffff, 0)).toString(16);
-    const point = new ColorPoint(x, y, 10, `#${color}`);
+    const point = new ColorPoint(x, y, 5, `#${color}`);
     points.push(point);
   }
   return points;
