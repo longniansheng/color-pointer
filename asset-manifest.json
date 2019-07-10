@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/color-pointer/static/js/main.2a1da104.chunk.js",
-    "main.js.map": "/color-pointer/static/js/main.2a1da104.chunk.js.map",
+    "main.js": "/color-pointer/static/js/main.1b33be33.chunk.js",
+    "main.js.map": "/color-pointer/static/js/main.1b33be33.chunk.js.map",
     "runtime~main.js": "/color-pointer/static/js/runtime~main.50dde796.js",
     "runtime~main.js.map": "/color-pointer/static/js/runtime~main.50dde796.js.map",
-    "static/js/2.eda8a564.chunk.js": "/color-pointer/static/js/2.eda8a564.chunk.js",
-    "static/js/2.eda8a564.chunk.js.map": "/color-pointer/static/js/2.eda8a564.chunk.js.map",
+    "static/js/2.1c3a4f31.chunk.js": "/color-pointer/static/js/2.1c3a4f31.chunk.js",
+    "static/js/2.1c3a4f31.chunk.js.map": "/color-pointer/static/js/2.1c3a4f31.chunk.js.map",
     "index.html": "/color-pointer/index.html",
-    "precache-manifest.1d94863e5a2ccdd5efbb75d58a957db6.js": "/color-pointer/precache-manifest.1d94863e5a2ccdd5efbb75d58a957db6.js",
+    "precache-manifest.9249388ccbc206075f94647745b8ada9.js": "/color-pointer/precache-manifest.9249388ccbc206075f94647745b8ada9.js",
     "service-worker.js": "/color-pointer/service-worker.js"
   }
 }
